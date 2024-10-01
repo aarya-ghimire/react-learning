@@ -1,11 +1,9 @@
-import Footer from "./Footer";
 import Header from "./Header";
 
 function App() {
   return (
     <>
-      <Header />
-      <Footer />
+      <Header name="Aarya" age={20} isStudent={true}></Header>
     </>
   );
 }
