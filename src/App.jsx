@@ -1,11 +1,20 @@
-import Header from "./Header";
+import React from "react";
+import Header from "./Header.jsx";
+import Hero from "./Hero.jsx";
+import Destinations from "./Destinations.jsx";
+import About from "./About.jsx";
+import Footer from "./Footer.jsx";
 
-function App() {
+const App = () => {
   return (
-    <>
-      <Header name="Aarya" age={20} isStudent={true}></Header>
-    </>
+    <div className="App">
+      <Header />
+      <Hero />
+      <Destinations />
+      <About />
+      <Footer />
+    </div>
   );
-}
+};
 
 export default App;
