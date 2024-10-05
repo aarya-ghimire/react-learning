@@ -8,7 +8,7 @@ const Destinations = () => {
           <div style={styles.card}>
             <img src={destination1} alt="Paris, France" style={styles.image} />
             <h3>Paris, France</h3>
-            <p>The city of lights, romance, and culture.</p>
+            <p>The city of lights, romance, and culture!</p>
           </div>
           <div style={styles.card}>
             <img src={destination2} alt="Tokyo, Japan" style={styles.image} />
