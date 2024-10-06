@@ -4,7 +4,7 @@ const About = () => {
   return (
     <section id="about" style={styles.about}>
       <div style={styles.container}>
-        <h2 style={styles.heading}>About Us</h2>
+        <h2 style={styles.heading}>About Us!</h2>
         <p style={styles.text}>
           We are passionate travelers and tech enthusiasts who aim to provide a
           platform to showcase and explore beautiful travel destinations. Join
