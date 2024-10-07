@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <section style={styles.hero}>
       <div style={styles.container}>
-        <h2 style={styles.title}>Discover Your Next Adventure</h2>
+        <h2 style={styles.title}>Discover Your Next Adventure!</h2>
         <p style={styles.subtitle}>
           Explore the best travel destinations around the world.
         </p>
