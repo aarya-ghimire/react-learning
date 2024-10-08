@@ -9,7 +9,7 @@ const Hero = () => {
           Explore the best travel destinations around the world.
         </p>
         <a href="#destinations" style={styles.btn}>
-          Explore Now.
+          Explore Now!
         </a>
       </div>
     </section>
