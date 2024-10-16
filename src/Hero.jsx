@@ -6,7 +6,7 @@ const Hero = () => {
       <div style={styles.container}>
         <h2 style={styles.title}>Discover Your Next Adventure!</h2>
         <p style={styles.subtitle}>
-          Explore the best travel destinations around the world.!
+          Explore the best travel destination around the world.!
         </p>
         <a href="#destinations" style={styles.btn}>
           Explore Now!
