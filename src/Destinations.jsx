@@ -26,7 +26,8 @@ const Destinations = () => {
             />
             <h3>Bali, Indonesia</h3>
             <p>
-              A tropical paradise known for its beaches and vibrant culture.
+              A tropical paradise known for its beaches and also vibrant
+              culture.
             </p>
           </div>
         </div>
